@@ -1,0 +1,6 @@
+Done processing ./include/Traverse.h
+Done processing ./src/Traverse.cpp
+Done processing ./src/collect.cpp
+Done processing ./src/detection.cpp
+Done processing ./src/main.cpp
+Total errors found: 11
